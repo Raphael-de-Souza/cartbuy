@@ -1,4 +1,3 @@
-export class AppConstant{        
-     
-        public static BASE_PATH:string = "http://localhost:3000";
+export class AppConstant {
+        public static BASE_PATH = 'http://localhost:4200';
     }
